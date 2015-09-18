@@ -10,5 +10,13 @@
     "mocha"
   ],
   "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/featurist/mocha-test-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/featurist/mocha-test-name/issues"
+  },
+  "homepage": "https://github.com/featurist/mocha-test-name"
 }
