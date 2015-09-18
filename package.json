@@ -1,0 +1,14 @@
+{
+  "name": "mocha-test-name",
+  "version": "1.0.0",
+  "description": "sets the current mocha test name to a global variable (yeah, it's useful sometimes!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
+  "license": "MIT"
+}
